@@ -11,11 +11,18 @@
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+  margin: 0 20px 0 20px;
+  color: white;
+  padding-top: 50px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
   margin: 0 30px 0 30px;
   color: white;
   padding-top: 50px;
 }
-
 .main .main-left {
   width: 450px;
   height: 500px;
